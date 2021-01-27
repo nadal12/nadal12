@@ -1,5 +1,5 @@
 ### Hola 👋,  
-![](https://imgur.com/14f34189-600d-4bb9-b199-0ea48f472aec)
+![](https://ibb.co/GpqVLqX)
 
 Aquí encontraras proyectos realizados en la Universidad y también algunos realizados por mi cuenta. 
 
