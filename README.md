@@ -6,12 +6,10 @@ Aquí encontraras proyectos realizados en la Universidad y también algunos real
 - 📫 Cómo contactarme: nadal12@hotmail.com 
 
 
-<p align="center">
   <a href="https://twitter.com/nadalllabres"><img src="https://www.flaticon.es/svg/static/icons/svg/733/733579.svg" width="20px"></a>
   <a href="https://www.youtube.com/channel/UCut8vA7LFIeBri0wQEnUj7A"><img src="https://www.flaticon.es/svg/static/icons/svg/1384/1384060.svg" width="20px"></a>
   <a href="https://instagram.com/nadalllabres"><img src="https://www.flaticon.es/svg/static/icons/svg/733/733558.svg" width="20px"></a>
   <a href="https://www.linkedin.com/in/nadalllabres/"><img src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1611858689~hmac=7c738e187debf3bd0ddca991add1b0d7" width="20px"></a>
-</p>
 
 <!-- Thanks to https:flaticon.es for providing all the icons used in this README.md file> -->
 
